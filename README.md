@@ -41,8 +41,8 @@ Atualmente cursando o [1º] período de Engenharia de Software na Universidade d
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de dados** | um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.  | [Ver Projeto](./auditoria-de-dados/auditoria-de-dados.py.py)
-| **Engenharia de Soluções Lógicas** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.   | [Ver Projeto](
- 
+| **Engenharia de Soluções Lógicas** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.   | [parte 1](./engenharia-de-solucoes-logicas/parte-1.txt) [parte 2](./engenharia-de-solucoes-logicas/parte-2.pdf) [parte3](./engenharia-de-solucoes-logicas/parte-3.pdf)
+| **modularização**  |  
 ---
  
 ### 🏗 Estrutura do Repositório
