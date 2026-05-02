@@ -23,7 +23,7 @@ Atualmente cursando o [1º] período de Engenharia de Software na Universidade d
  
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
  
 #### 🗄️ Banco de Dados
@@ -66,14 +66,33 @@ Atualmente cursando o [1º] período de Engenharia de Software na Universidade d
 ### 🏗️ Estrutura do Repositório
 Abaixo, a organização atual deste repositório para facilitar a navegação:
 
-- README.md: Arquivo principal com a visão geral dos projetos.
-
-#### 📁 Projetos
-
-- /algoritmo-de-auditoria-de-dados/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- /algoritmo-do-microclima-local/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- /desenhando-emojis-com-dados/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- /engenharia-de-contexto-e-logica-fisica/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- /engenharia-de-solucoes-logicas/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- /modularizacao/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- /traduzindo-logica-para-python/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+```
+.
+├── README.md (Principal)
+├── algoritmo-de-auditoria-de-dados/
+│   ├── sistema_auditoria.py
+│   └── README.md
+├── algoritmo-do-microclima-local/
+│   ├── algoritmo-do-microclima-local.py
+│   └── README.md
+├── desenhando-emojis-com-dados/
+│   ├── criador-matrizes-integrado.py
+│   └── README.md
+├── engenharia-de-contexto-e-logica-fisica/
+│   ├── algoritmo-do-microclima-local.py
+│   ├── navegacao-e-evacuacao-espacial.py
+│   └── README.md
+├── engenharia-de-solucoes-logicas/
+│   ├── arquivo-de-dados
+│   ├── IMG_1644.pdf
+│   └── README.md
+├── modularizacao/
+│   ├── arquivo-de-dados
+│   ├── IMG_1707.pdf
+│   └── README.md
+└── traduzindo-logica-para-python/
+    ├── analisar_clima.py
+    ├── processar_vendas.py
+    ├── simulador_poupanca.py
+    ├── sistema_notas_turma.py
+    └── README.md
