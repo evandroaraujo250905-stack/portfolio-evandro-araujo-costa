@@ -69,11 +69,11 @@ Simular tomadas de decisão em tempo real com base em recursos limitados e condi
 
 ## Parte 3: 💭 Reflexão Crítica (Além do Código)
 
-  Durante o mapeamento físico do laboratório deixei de ver o todo para ver as partes, antes de aprender a programar eu olhava para o laboratório como só um lugar. ao fazer o mapeamento de evacuação entendi que o computador entende dados: número de pessoas, se a porta está trancada ou aberta e quantos metros faltam até a saída. Isso me ensinou que, na vida real, problemas grandes ficam menos assustadores quando os divide em pedaços pequenos.
+ Durante o mapeamento físico do laboratório deixei de ver o todo para ver as partes, antes de aprender a programar eu olhava para o laboratório como só um lugar. ao fazer o mapeamento de evacuação entendi que o computador entende dados: número de pessoas, se a porta está trancada ou aberta e quantos metros faltam até a saída. Isso me ensinou que, na vida real, problemas grandes ficam menos assustadores quando os divide em pedaços pequenos.
 
-    Ao tentar transformar portas e corredores em variáveis lógicas, o maior desafio foi abstrair elementos físicos em variáveis binárias sem perder a complexidade do ambiente real.
-
-    Isso me fez refletir que a clareza é tudo, o computador não adivinha nada e sim que ele faz o que eu mando. no meu dia a dia,  percebi que muitas vezes eu me atrapalhava porque não definia bem os meus próprios passos, aí aprendi a organizar melhor as minhas tarefas e até a forma que explico as coisas para os outros.
+ Ao tentar transformar portas e corredores em variáveis lógicas, o maior desafio foi abstrair elementos físicos em variáveis binárias sem perder a complexidade do ambiente real.
+  
+  Isso me fez refletir que a clareza é tudo, o computador não adivinha nada e sim que ele faz o que eu mando. no meu dia a dia,  percebi que muitas vezes eu me atrapalhava porque não definia bem os meus próprios passos, aí aprendi a organizar melhor as minhas tarefas e até a forma que explico as coisas para os outros.
 ---
 
 [Voltar ao início](#)
