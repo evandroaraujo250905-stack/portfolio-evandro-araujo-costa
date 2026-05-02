@@ -73,7 +73,8 @@ Simular tomadas de decisão em tempo real com base em recursos limitados e condi
 
  Ao tentar transformar portas e corredores em variáveis lógicas, o maior desafio foi abstrair elementos físicos em variáveis binárias sem perder a complexidade do ambiente real.
   
-  Isso me fez refletir que a clareza é tudo, o computador não adivinha nada e sim que ele faz o que eu mando. no meu dia a dia,  percebi que muitas vezes eu me atrapalhava porque não definia bem os meus próprios passos, aí aprendi a organizar melhor as minhas tarefas e até a forma que explico as coisas para os outros.
+ Isso me fez refletir que a clareza é tudo, o computador não adivinha nada e sim que ele faz o que eu mando. no meu dia a dia,  percebi que muitas vezes eu me atrapalhava porque não definia bem os meus próprios passos, aí aprendi a organizar melhor as minhas tarefas e até a forma que explico as coisas para os outros.
+  
 ---
 
 [Voltar ao início](#)
