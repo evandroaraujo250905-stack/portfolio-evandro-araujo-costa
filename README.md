@@ -40,7 +40,7 @@ Atualmente cursando o [1º] período de Engenharia de Software na Universidade d
 #### 🗃️ Programação de computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritmo de auditoria de dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.  | [Ver Projeto](./auditoria-de-dados/auditoria-de-dados.py.py)
+| **Algoritmo de auditoria de dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.  | [Ver Projeto](./algoritmo-de-auditoria-de-dados/)
 | **Engenharia de soluções lógicas** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.  | [Ver Projeto 1](./engenharia-de-solucoes-logicas/parte-1.txt) [Ver Projeto 2](./engenharia-de-solucoes-logicas/parte-2.pdf) [Ver Projeto 3](./engenharia-de-solucoes-logicas/parte-3.pdf)
 | **Modularização**  |  A técnica de dividir um sistema de software em partes menores.  | [Ver Projeto 1](./modularizacao/parte-1.pdf) [Ver Projeto 2](./modularizacao/parte-2.pdf)
 | **Traduzindo lógica para Python**  | Converter passos mentais ou algoritmos para uma linguagem de alto nível, legível e dinâmica.  | 
