@@ -63,8 +63,17 @@ Atualmente cursando o [1º] período de Engenharia de Software na Universidade d
 | **Projeto 06 - Desenhando Emojis com Dados** | Este projeto reúne diferentes desafios práticos voltados à manipulação de dados estruturados, explorando conceitos fundamentais de programação como matrizes, dicionários e transformação de dados.| [Ver Projeto](./desenhando-emojis-com-dados/) |
 ---
  
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+### 🏗️ Estrutura do Repositório
+Abaixo, a organização atual deste repositório para facilitar a navegação:
+
+- README.md: Arquivo principal com a visão geral dos projetos.
+
+#### 📁 Projetos
+
+- /algoritmo-de-auditoria-de-dados/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- /algoritmo-do-microclima-local/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- /desenhando-emojis-com-dados/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- /engenharia-de-contexto-e-logica-fisica/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- /engenharia-de-solucoes-logicas/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- /modularizacao/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- /traduzindo-logica-para-python/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
