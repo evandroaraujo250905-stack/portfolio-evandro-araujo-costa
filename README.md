@@ -42,7 +42,7 @@ Atualmente cursando o [1º] período de Engenharia de Software na Universidade d
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.  | [Ver Projeto](./auditoria-de-dados/auditoria-de-dados.py.py)
 | **Engenharia de Soluções Lógicas** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.  | [Ver Projeto 1](./engenharia-de-solucoes-logicas/parte-1.txt) [Ver Projeto 2](./engenharia-de-solucoes-logicas/parte-2.pdf) [Ver Projeto 3](./engenharia-de-solucoes-logicas/parte-3.pdf)
-| **modularização**  |  a técnica de dividir um sistema de software em partes menores.  | [Ver Projeto 1](
+| **modularização**  |  a técnica de dividir um sistema de software em partes menores.  | [Ver Projeto 1](./modularizacao/parte-1.pdf) [Ver Projeto 2](./modularizacao/parte-2.pdf)
 ---
  
 ### 🏗 Estrutura do Repositório
