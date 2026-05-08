@@ -24,11 +24,11 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
  
 ### Pré-requisitos
 * Python 3.8 ou superior instalado.
- 
+
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SeuUsuario/seu-repositorio.git](https://github.com/SeuUsuario/seu-repositorio.git)
+   git clone (https://github.com/evandroaraujo250905-stack/portfolio-evandro-araujo-costa.git)
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -46,8 +46,8 @@ Breve explicação de como o código foi organizado:
  
 ## 👤 Autor
  
-* **[Seu Nome Completo]** * LinkedIn: [Seu Link]
-* E-mail: [Seu E-mail]
+* **Evanddro Araujo Costa** * LinkedIn: linkedin.com/in/evandro-araújo-35699a400
+* E-mail: evandroaraujo250905@gmail.com
  
 ---
 *Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
