@@ -46,7 +46,7 @@ Breve explicação de como o código foi organizado:
  
 ## 👤 Autor
  
-* **Evanddro Araujo Costa** * LinkedIn: linkedin.com/in/evandro-araújo-35699a400
+* **Evandro Araujo Costa** * LinkedIn: linkedin.com/in/evandro-araújo-35699a400
 * E-mail: evandroaraujo250905@gmail.com
  
 ---
