@@ -41,8 +41,6 @@ Atualmente cursando o [1º] período de Engenharia de Software na Universidade d
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Projeto 01 - O Algoritmo de Auditoria de Dados** | Este projeto é um sistema de análise de vendas focado em detectar anomalias e garantir segurança financeira. Ele monitora os valores, identifica possíveis erros ou discrepâncias e aplica regras com base em limites definidos pelo usuário.| [Ver Projeto](./algoritmo-de-auditoria-de-dados/)
-
-| Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Projeto 02 - Engenharia de Soluções Lógicas** | Este projeto consiste em um sistema de triagem automatizada desenvolvido para otimizar o atendimento no Sistema Único de Saúde (SUS). O objetivo é classificar pacientes com base em sintomas e sinais informados, priorizando casos mais urgentes e organizando o fluxo de atendimento médico.| [Ver Projeto](./engenharia-de-solucoes-logicas/)
 
