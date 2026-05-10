@@ -41,7 +41,7 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
  
 ## 🧠 Lógica e Estrutura do Código
 Breve explicação de como o código foi organizado:
-* `[Explique aqui em 1 ou 2 parágrafos como você pensou para construir a sua recursão e como o decorator foi acoplado no projeto]`.
+* `Para construir a recursão, pensei na estrutura da empresa como uma árvore de departamentos, onde cada setor pode conter outros subsetores ou valores numéricos. A função percorre o dicionário e, quando encontra outro dicionário, chama a si mesma novamente para continuar a navegação até encontrar os valores finais, que são somados ao orçamento total. Também utilizei *args para ignorar departamentos específicos durante o cálculo. O decorator @auditor foi criado para separar a parte de auditoria da lógica principal, registrando os argumentos recebidos, o início e o fim da execução da função, além de medir o tempo total do processamento usando a biblioteca time`.
 * **Dados:** Os dados simulados da empresa foram estruturados em... `[explique a estrutura do seu dicionário]`.
  
 ## 👤 Autor
