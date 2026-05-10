@@ -60,3 +60,4 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `/engenharia-de-solucoes-logicas/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
 - `/modularizacao/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
 - `/traduzindo-logica-para-python/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `/projeto_sistema_de_auditorias/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
