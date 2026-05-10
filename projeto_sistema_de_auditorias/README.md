@@ -42,8 +42,7 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
 ## 🧠 Lógica e Estrutura do Código
 Breve explicação de como o código foi organizado:
 * `Para construir a recursão, pensei na estrutura da empresa como uma árvore de departamentos, onde cada setor pode conter outros subsetores ou valores numéricos. A função percorre o dicionário e, quando encontra outro dicionário, chama a si mesma novamente para continuar a navegação até encontrar os valores finais, que são somados ao orçamento total. Também utilizei *args para ignorar departamentos específicos durante o cálculo. O decorator @auditor foi criado para separar a parte de auditoria da lógica principal, registrando os argumentos recebidos, o início e o fim da execução da função, além de medir o tempo total do processamento usando a biblioteca time`.
-* **Dados:** Os dados simulados da empresa foram estruturados em... `[explique a estrutura do seu dicionário]`.
- 
+* **Dados:** Os dados simulados da empresa foram estruturados em um dicionário aninhado, representando a hierarquia organizacional da empresa. A estrutura começa pela chave principal "Matriz", que representa a sede da empresa. Dentro dela existem vários departamentos, como "TI", "RH", "Financeiro" e "Logistica".
 ## 👤 Autor
  
 * **Evandro Araujo Costa** * LinkedIn: linkedin.com/in/evandro-araújo-35699a400
