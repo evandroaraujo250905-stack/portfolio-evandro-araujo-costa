@@ -45,7 +45,8 @@ Atualmente cursando o [1º] período de Engenharia de Software na Universidade d
 | **Projeto 03 - Modularização** | Este projeto consiste em um sistema desenvolvido em pseudocódigo para realizar o cálculo de compras e gerenciamento de troco em um processo de pagamento.| [Ver Projeto](./modularizacao/)
 | **Projeto 04 - Traduzindo Lógica para Python** | Este projeto consiste em um conjunto de sistemas desenvolvidos em Python com foco em lógica de programação, entrada de dados e tomada de decisão. Ele reúne diferentes funcionalidades práticas que simulam situações do dia a dia, como controle de vendas, análise climática, gestão de notas escolares e simulação de investimentos.| [Ver Projeto](./traduzindo-lógica-para-python/)
 | **Projeto 05 - Engenharia de Soluções Lógicas** | Este projeto reúne dois módulos **[Análise de Microclima, Simulação de Saída de Fuga]** distintos que simulam cenários reais utilizando lógica computacional e tomada de decisão automatizada.| [Ver Projeto](./engenharia-de-contexto-e-logica-fisica/) 
-| **Projeto 06 - Desenhando Emojis com Dados** | Este projeto reúne diferentes desafios práticos voltados à manipulação de dados estruturados, explorando conceitos fundamentais de programação como matrizes, dicionários e transformação de dados.| [Ver Projeto](./desenhando-emojis-com-dados/) |
+| **Projeto 06 - Desenhando Emojis com Dados** | Este projeto reúne diferentes desafios práticos voltados à manipulação de dados estruturados, explorando conceitos fundamentais de programação como matrizes, dicionários e transformação de dados.| [Ver Projeto](./desenhando-emojis-com-dados/)
+| **Projeto 07 - Sistema de Auditoria de Recursos Corporativos** | 
 ---
  
 ### 🏗 Estrutura do Repositório
