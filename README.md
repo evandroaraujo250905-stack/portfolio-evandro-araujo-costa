@@ -13,7 +13,7 @@
 ### 👨‍💻 Sobre
 Atualmente cursando o [1º] período de Engenharia de Software na Universidade de São Paulo (UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
  
-* **Habilidades Técnicas:** Python, SQL.
+* **Habilidades Técnicas:** Python.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei como suporte de desenvolvimento, onde desenvolvi o aplicativo CROCLY (bate ponto digital ).
  
