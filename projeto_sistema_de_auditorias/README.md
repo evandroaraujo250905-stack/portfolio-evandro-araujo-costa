@@ -32,11 +32,11 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd seu-repositorio
+   cd projeto_sistema_de_auditorias
    ```
 3. Execute o script principal:
    ```bash
-   python main.py
+   python empresa-multinacional.py
    ```
  
 ## 🧠 Lógica e Estrutura do Código
