@@ -45,7 +45,7 @@ Breve explicação de como o código foi organizado:
 * **Dados:** Os dados simulados da empresa foram estruturados em um dicionário aninhado, representando a hierarquia organizacional da empresa. A estrutura começa pela chave principal "Matriz", que representa a sede da empresa. Dentro dela existem vários departamentos, como "TI", "RH", "Financeiro" e "Logistica".
 ## 👤 Autor
  
-* **Evandro Araujo Costa** * LinkedIn: linkedin.com/in/evandro-araújo-35699a400
+* **Evandro Araujo Costa** * LinkedIn: https://linkedin.com/in/evandro-araújo-35699a400
 * E-mail: evandroaraujo250905@gmail.com
  
 ---
