@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
- Sou estudante de Engenharia de Software na Universidade Cidade de São Paulo, atualmente cursando o 1º período da graduação, iniciada oficialmente em janeiro de 2026. Tenho grande interesse pela área de tecnologia, especialmente em desenvolvimento de sistemas, banco de dados e análise de dados, áreas nas quais venho construindo uma base sólida por meio de estudos acadêmicos, projetos práticos e aprendizado contínuo.
+  Sou estudante de Engenharia de Software na Universidade Cidade de São Paulo, atualmente cursando o 1º período da graduação, iniciada oficialmente em janeiro de 2026. Tenho grande interesse pela área de tecnologia, especialmente em desenvolvimento de sistemas, banco de dados e análise de dados, áreas nas quais venho construindo uma base sólida por meio de estudos acadêmicos, projetos práticos e aprendizado contínuo.
 
 Possuo conhecimentos introdutórios em análise de dados, lógica de programação, modelagem de banco de dados e estruturação de sistemas, buscando constantemente aprimorar minhas habilidades técnicas e minha capacidade de resolver problemas de forma eficiente e organizada. Tenho facilidade para aprender novas tecnologias, boa adaptação a ambientes colaborativos e interesse em participar de projetos que contribuam para meu crescimento profissional e desenvolvimento técnico.
 
