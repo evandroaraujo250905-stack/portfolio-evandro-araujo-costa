@@ -11,11 +11,19 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Engenharia de Software na Universidade de São Paulo (UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
+ Sou estudante de Engenharia de Software na Universidade Cidade de São Paulo, atualmente cursando o 1º período da graduação, iniciada oficialmente em janeiro de 2026. Tenho grande interesse pela área de tecnologia, especialmente em desenvolvimento de sistemas, banco de dados e análise de dados, áreas nas quais venho construindo uma base sólida por meio de estudos acadêmicos, projetos práticos e aprendizado contínuo.
+
+Possuo conhecimentos introdutórios em análise de dados, lógica de programação, modelagem de banco de dados e estruturação de sistemas, buscando constantemente aprimorar minhas habilidades técnicas e minha capacidade de resolver problemas de forma eficiente e organizada. Tenho facilidade para aprender novas tecnologias, boa adaptação a ambientes colaborativos e interesse em participar de projetos que contribuam para meu crescimento profissional e desenvolvimento técnico.
+
+Meu objetivo é conquistar uma oportunidade de estágio na área de tecnologia, onde eu possa aplicar meus conhecimentos em banco de dados, análise de sistemas e desenvolvimento de soluções, ao mesmo tempo em que adquiro experiência prática no mercado. Busco atuar em um ambiente que valorize aprendizado, inovação e evolução profissional, permitindo que eu contribua com dedicação, responsabilidade e vontade de aprender.
+
+Além da formação acadêmica, mantenho foco no desenvolvimento contínuo das minhas competências técnicas e profissionais, buscando sempre ampliar meus conhecimentos em ferramentas, metodologias e boas práticas utilizadas no setor de tecnologia. Tenho interesse em áreas como desenvolvimento backend, engenharia de software, análise de sistemas e gestão de dados, com o objetivo de construir uma carreira sólida e alinhada às demandas do mercado tecnológico.
+
+Sou comprometido, proativo e motivado a transformar conhecimento em soluções eficientes, acreditando que a tecnologia possui um papel essencial na inovação e melhoria de processos dentro das organizações.
  
-* **Habilidades Técnicas:** Python.
+* **Habilidades Técnicas:** Python, SQL, Power BI, Excel.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei como suporte de desenvolvimento, onde desenvolvi o aplicativo CROCLY (bate ponto digital ).
+* **Experiência/Projetos Relevantes:** Atuei como suporte de desenvolvimento, onde desenvolvi o aplicativo CROCLY (bate ponto digital).
  
 ---
  
