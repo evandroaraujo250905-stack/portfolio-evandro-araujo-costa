@@ -21,7 +21,7 @@ Além da formação acadêmica, mantenho foco no desenvolvimento contínuo das m
 
 Sou comprometido, proativo e motivado a transformar conhecimento em soluções eficientes, acreditando que a tecnologia possui um papel essencial na inovação e melhoria de processos dentro das organizações.
  
-* **Habilidades Técnicas:** Python, SQL, Power BI, Excel.
+* **Habilidades Técnicas:** Python, Figma, SQL, Power BI, Excel.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei como suporte de desenvolvimento, onde desenvolvi o aplicativo CROCLY (bate ponto digital).
  
