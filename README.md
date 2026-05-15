@@ -50,12 +50,7 @@ Atualmente cursando o 1º período de Engenharia de Software na Universidade de 
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
-- `root/`: Arquivo de apresentação principal.
-- `/algoritmo-de-auditoria-de-dados/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/algoritmo-do-microclima-local/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/desenhando-emojis-com-dados/`:Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/engenharia-de-contexto-e-logica-fisica/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/engenharia-de-solucoes-logicas/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/modularizacao/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/traduzindo-logica-para-python/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-- `/projeto_sistema_de_auditorias/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `README.md/`: Este arquivo com a visão geral do meu portfólio e trajetória acadêmica.
+- `/cv/`: Contém meu currículo em formato PDF para visualização e dowload.
+- `/projeto-*/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
+
